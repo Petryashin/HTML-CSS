@@ -11,6 +11,7 @@
 	- [Флоаты](#флоаты)
 	- [Флексы](#флексы)
 	- [Макеты](#макеты)
+	- [Другое](#другое)
 
 # Ресурс
 
@@ -544,4 +545,7 @@ img {
 }
 ```
 # Макеты
-http://code.mu/ru/markup/book/prime/layout/menu/#
+http://code.mu/ru/markup/book/prime/layout/menu/
+# Другое
+### CSS классы через пробел и без него
+https://ploshadka.net/css-space-and-no-spaces/
