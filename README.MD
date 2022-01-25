@@ -554,6 +554,6 @@ https://ploshadka.net/css-space-and-no-spaces/
 ```css
 .elem{
 	pointer-events: auto;
-}
+	pointer-events: none;
 }
 ```
